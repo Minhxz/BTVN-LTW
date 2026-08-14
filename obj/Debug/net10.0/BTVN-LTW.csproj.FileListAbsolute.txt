@@ -1,0 +1,14 @@
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\bin\Debug\net10.0\BTVN-LTW.exe
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\bin\Debug\net10.0\BTVN-LTW.deps.json
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\bin\Debug\net10.0\BTVN-LTW.runtimeconfig.json
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\bin\Debug\net10.0\BTVN-LTW.dll
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\bin\Debug\net10.0\BTVN-LTW.pdb
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.AssemblyInfoInputs.cache
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.AssemblyInfo.cs
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.csproj.CoreCompileInputs.cache
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.dll
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\refint\BTVN-LTW.dll
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.pdb
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\BTVN-LTW.genruntimeconfig.cache
+C:\Users\buiqu\Desktop\BTVN-Web\BTVN-LTW\BTVN-LTW\obj\Debug\net10.0\ref\BTVN-LTW.dll
