@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5289EC1-B7DC-4B1C-85EA-EE0FDB4322AE}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\web\\tuan2\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5289EC1-B7DC-4B1C-85EA-EE0FDB4322AE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5289EC1-B7DC-4B1C-85EA-EE0FDB4322AE}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\web\\tuan2\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5289EC1-B7DC-4B1C-85EA-EE0FDB4322AE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2445F0A6-26C8-4007-B018-437007464D12}|Tuan2\\Tuan2.csproj|c:\\users\\buiqu\\desktop\\web\\tuan2\\tuan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2445F0A6-26C8-4007-B018-437007464D12}|Tuan2\\Tuan2.csproj|solutionrelative:tuan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\WebApplication1\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T07:15:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\WebApplication1\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T07:10:54.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\Tuan2\\Program.cs",
+              "RelativeDocumentMoniker": "Tuan2\\Program.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\Tuan2\\Tuan2\\Program.cs*",
+              "RelativeToolTip": "Tuan2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T07:07:29.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
