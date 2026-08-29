@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|c:\\users\\buiqu\\desktop\\web\\btvn-tuan3\\btvn-tuan3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD43C80-1831-B06B-57C5-6E2E8CA20B92}|btvn-tuan3\\btvn-tuan3.csproj|solutionrelative:btvn-tuan3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "btvn-tuan3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T17:23:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "btvn-tuan3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T17:21:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "btvn-tuan3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAlwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:21:07.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Product.cs",
+              "RelativeToolTip": "btvn-tuan3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:20:47.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Category.cs",
+              "RelativeToolTip": "btvn-tuan3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:20:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "btvn-tuan3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T16:58:59.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Program.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Program.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Program.cs",
+              "RelativeToolTip": "btvn-tuan3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:57:19.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "btvn-tuan3\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T16:53:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "btvn-tuan3\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T16:33:38.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Models\\Account.cs",
+              "RelativeToolTip": "btvn-tuan3\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:43:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "btvn-tuan3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\Web\\btvn-tuan3\\btvn-tuan3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "btvn-tuan3\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:31:58.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

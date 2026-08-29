@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    var product = ViewBag.Product as btvn_tuan3.Models.Product;
+    var category = ViewBag.Category as btvn_tuan3.Models.Category;
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h4>Chi tiết sản phẩm</h4>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-4">
+        <img src="@product.Image" class="img-fluid" alt="@product.Name" />
+    </div>
+    <div class="col-md-8">
+        <h3>Sản phẩm: @product.Name</h3>
+        <p>Giá gốc: <del>@String.Format("{0:N0}", product.Price)</del> Giá mới: @String.Format("{0:N0}", product.SalePrice)</p>
+        <p><strong>Mô Tả:</strong></p>
+        <p>@product.Description</p>
+        <p><strong>Trạng thái:</strong> @(product.Status ? "Còn hàng" : "Hết hàng")</p>
+        <p><strong>Ngày đăng:</strong> @product.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</p>
+
+        <a class="btn btn-danger" asp-controller="Product" asp-action="Index">Về danh sách</a>
+    </div>
+</div>

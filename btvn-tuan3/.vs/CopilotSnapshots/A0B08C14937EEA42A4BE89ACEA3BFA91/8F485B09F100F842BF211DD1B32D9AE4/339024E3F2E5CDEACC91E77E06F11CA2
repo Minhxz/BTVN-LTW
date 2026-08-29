@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Sản phẩm";
+    var categories = ViewBag.Categories as List<btvn_tuan3.Models.Category>;
+    var products = ViewBag.Products as List<btvn_tuan3.Models.Product>;
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h5>DANH MỤC</h5>
+        <ul class="list-group">
+            @if (categories != null)
+            {
+                foreach (var c in categories)
+                {
+                    <li class="list-group-item">@c.Name</li>
+                }
+            }
+        </ul>
+    </div>
+    <div class="col-md-9">
+        <h3>Danh sách sản phẩm</h3>
+        <div class="row">
+            @if (products != null)
+            {
+                foreach (var p in products)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <img class="card-img-top" src="@p.Image" alt="@p.Name" />
+                            <div class="card-body">
+                                <h5 class="card-title">@p.Name</h5>
+                                <p class="card-text"><del>@String.Format("{0:N0}", p.Price)</del> Giá: @String.Format("{0:N0}", p.SalePrice)</p>
+                                <a class="btn btn-success btn-block" href="#">Chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

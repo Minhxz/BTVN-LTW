@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc;
+using btvn_tuan3.Models;
+
+namespace MyAppMVC.Controllers
+{
+    public class ProductController : Controller
+    {
+        [Route("san-pham")]
+        public IActionResult Index()
+        {
+            var categories = new List<Category>
+            {
+                new Category { Id = 1, Name = "Quần Áo" },
+                new Category { Id = 2, Name = "Túi xách" },
+                new Category { Id = 3, Name = "Đồng hồ" }
+            };
+
+            var products = new List<Product>
+            {
+                new Product { Id = 1, Name = "Bộ đồ bơi cho trẻ em nam", Image = Url.Content("~/images/p1.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 1, Description = "Bộ đồ bơi", Status = true, CreatedAt = DateTime.Now },
+                new Product { Id = 2, Name = "Bộ đồ bơi cho trẻ em nữ", Image = Url.Content("~/images/p2.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 1, Description = "Bộ đồ bơi", Status = true, CreatedAt = DateTime.Now },
+                new Product { Id = 3, Name = "Bộ đồ bơi cho trẻ em từ 3-5 tuổi", Image = Url.Content("~/images/p3.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 1, Description = "Bộ đồ bơi", Status = true, CreatedAt = DateTime.Now },
+                new Product { Id = 4, Name = "Bộ đồ bơi thời trang", Image = Url.Content("~/images/p4.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 1, Description = "Bộ đồ bơi", Status = true, CreatedAt = DateTime.Now },
+                new Product { Id = 5, Name = "Túi thời trang mẫu mới 2021", Image = Url.Content("~/images/p5.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 2, Description = "Túi xách", Status = true, CreatedAt = DateTime.Now },
+                new Product { Id = 6, Name = "Túi thời trang da cá sấu", Image = Url.Content("~/images/p6.jpg"), Price = 60000, SalePrice = 35000, CategoryId = 2, Description = "Túi xách", Status = true, CreatedAt = DateTime.Now }
+            };
+
+            ViewBag.Categories = categories;
+            ViewBag.Products = products;
+            return View();
+        }
+    }
+}
