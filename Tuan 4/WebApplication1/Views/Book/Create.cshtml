@@ -1,0 +1,42 @@
+@model WebApplication1.Models.Book
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create Book</h2>
+
+<form asp-action="Create" method="post" class="form-horizontal">
+    <div class="form-group">
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Tác giả</label>
+        <select name="AuthorId" class="form-control" asp-items="@ViewBag.authors">
+            <option value="">Chọn tác giả</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Thể loại</label>
+        <select name="GenreId" class="form-control" asp-items="@ViewBag.genres">
+            <option value="">Chọn thể loại</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Image" class="control-label"></label>
+        <input asp-for="Image" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Create</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>

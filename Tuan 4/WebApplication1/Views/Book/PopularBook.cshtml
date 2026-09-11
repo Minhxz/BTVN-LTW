@@ -1,0 +1,16 @@
+@model IEnumerable<WebApplication1.Models.Book>
+
+<div class="row">
+@foreach(var item in Model)
+{
+    <div class="col-6 col-sm-4 col-md-3 mb-3">
+        <div class="card h-100">
+            <img src="@item.Image" class="card-img-top" alt="@item.Title" />
+            <div class="card-body">
+                <h5 class="card-title">@item.Title</h5>
+                <p class="card-text">Price: @item.Price</p>
+            </div>
+        </div>
+    </div>
+}
+</div>

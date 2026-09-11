@@ -1,0 +1,97 @@
+﻿using System.Collections.Generic;
+using System.Linq;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace WebApplication1.Models
+{
+    public class Book
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }  
+        public int AuthorId { get; set; }
+        public int GenreId { get; set; }
+        public string Image { get; set; }
+        public float Price { get; set; }
+        public int TotalPage { get; set; }
+        public string Summary { get; set; }
+        public dynamic Authors { get; internal set; }
+    }
+    public static class BookRepository
+    {
+        public static List<Book> GetBookList()
+        {
+            List<Book> books = new List<Book>()
+            {
+                new Book()
+                {
+                    Id= 1,
+                    Title = "Chi Pheo",
+                    AuthorId = 1,
+                    GenreId = 1,
+                    Image = "/images/products/b1.png",
+                    Price = 100000,
+                    Summary = "",
+                    TotalPage = 250
+                },
+                new Book()
+                {
+                    Id= 2,
+                    Title = "Dế Mèn Phiêu Lưu Ký",
+                    AuthorId = 2,
+                    GenreId = 1,
+                    Image = "/images/products/b2.png",
+                    Price = 120000,
+                    Summary = "",
+                    TotalPage = 300
+                },
+                new Book()
+                {
+                    Id = 3,
+                    Title = "Dế Mèn Phiêu Lưu Ký",
+                    AuthorId = 2,
+                    GenreId = 1,
+                    Image = "/images/products/b4.png",
+                    Price = 120000,
+                    Summary = "",
+                    TotalPage = 300
+                },
+                new Book()
+                {
+                    Id = 4,
+                    Title = "Dế Mèn Phiêu Lưu Ký",
+                    AuthorId = 2,
+                    GenreId = 1,
+                    Image = "/images/products/b5.png",
+                    Price = 120000,
+                    Summary = "",
+                    TotalPage = 300
+                }
+            };
+
+            return books;
+        }
+    };
+
+    public Book GetBookID(int id)
+    {
+        Book book = this.GetBookList().FirstOrDefault(b => b.Id == id);
+        return book;
+    }
+
+    public List<SelectedItems> Authors { get; } = new List<SelectedListItem>
+    {
+        new SelectedListItem { Value = "1", Text = "Nam Cao" },
+        new SelectedListItem { Value = "2", Text = "Tô Hoài" },
+        new SelectedListItem { Value = "3", Text = "Nguyễn Nhật Ánh" },
+        new SelectedListItem { Value = "4", Text = "Nguyễn Ngọc Tư" },
+    }; 
+
+    public List<SelectedItems> Genres { get; } = new List<SelectedListItem>
+    {
+        new SelectedListItem { Value = "1", Text = "Văn học" },
+        new SelectedListItem { Value = "2", Text = "Khoa học" },
+        new SelectedListItem { Value = "3", Text = "Lịch sử" },
+        new SelectedListItem { Value = "4", Text = "Tâm lý học" },
+    };
+
+}

@@ -1,0 +1,45 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+
+namespace WebApplication1.Controllers
+{
+    public class BookController : Controller
+    {
+        public IActionResult Index()
+        {
+            var books = BookRepository.GetBookList();
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            return View(books);
+        }
+
+        [HttpPost]
+        public IActionResult Index(int? AuthorId, int? GenreId)
+        {
+            var books = BookRepository.GetBookList().AsQueryable();
+
+            if (AuthorId.HasValue)
+            {
+                books = books.Where(b => b.AuthorId == AuthorId.Value);
+            }
+
+            if (GenreId.HasValue)
+            {
+                books = books.Where(b => b.GenreId == GenreId.Value);
+            }
+
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            return View(books.ToList());
+        }
+
+        public IActionResult Create()
+        {
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            Book model = new Book();
+            return View(model);
+        }
+    }
+}
+

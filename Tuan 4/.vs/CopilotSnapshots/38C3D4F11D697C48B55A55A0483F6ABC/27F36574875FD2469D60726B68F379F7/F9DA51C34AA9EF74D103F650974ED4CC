@@ -1,0 +1,22 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+
+namespace WebApplication1.Controllers
+{
+    public class BookController : Controller
+    {
+        public IActionResult Index()
+        {
+            var books = BookRepository.GetBookList();
+            return View(books);
+        }
+        public IActionResult Create()
+        {
+            ViewBag.Authors = new book.Authors;
+            ViewBag.Genres = new book.Genres;
+            Book model = new Book();
+            return View(model);
+        }
+    }
+}
+

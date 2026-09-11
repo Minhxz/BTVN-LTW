@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<hr />
+<h2>Popular Book Load từ BookComponent</h2>
+@await Component.InvokeAsync("Book")
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<!-- Render the shared banner partial -->
+<partial name="_Banner" />
+<hr />
+<!-- Button to load popular books via AJAX -->
+<div class="mb-3 text-center">
+    <button id="loadAjax" class="btn btn-sm btn-primary">Click load book từ partialResult</button>
+</div>
+
+<div id="partialResult">
+    <!-- loaded content will appear here -->
+</div>
+
+@section Scripts {
+    <script>
+        $(function(){
+            $('#loadAjax').on('click', function(){
+                $('#partialResult').html('<p>Loading data...</p>');
+                $.get('/Book/PopularBook', function(html){
+                    $('#partialResult').html(html);
+                }).fail(function(){
+                    $('#partialResult').html('<p class="text-danger">Failed to load data.</p>');
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\wwwroot\\images\\products\\b4.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\products\\b4.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\wwwroot\\images\\products\\b3.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\products\\b3.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\wwwroot\\images\\products\\b2.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\products\\b2.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\wwwroot\\images\\products\\b1.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\images\\products\\b1.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\book\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\book\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\buiqu\\desktop\\th1\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:42:54.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:31:20.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Models\\Class.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Class.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:20:31.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:43:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Banner.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\_Banner.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Banner.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:31:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:40:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "WebApplication1\\ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:39:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PopularBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\PopularBook.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Book\\PopularBook.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\PopularBook.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Book\\PopularBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:37:38.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Banner.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\Banner.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Banner.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Shared\\Banner.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:32:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b4.svg",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b4.svg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\products\\b4.svg",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b4.svg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\products\\b4.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQESURBVDhPrZRdbJNVHMZ/b/u26xfUbqPYbd2wIKxsbGDYpk6joISJCuIHRkyMVxpDNBpjQjDRZFfeaFiI3ojGS00MshgvIEQkYyTAnJMs4yPb2Nqt27p17d5\u002B0L7v23O8WDc28JIneXK\u002B/ufJ\u002BZ/znD88SEgplXvnurq6jjc2Nn5UWkdKuRQLgBCCfD5PNpvtPnr06JFoNBpbrXAPurq6hoQQolgs/i9N0xQDAwOir69PnDhx4tdwOLxl5X7rygFAR0fHkba2tkohwdRTiNw1lMwP6DM/Y0z9AcDwhMHOljacTmfIbrfXTE5OXkskEon7BO2tbyr1za1HbuTKKm9N9rLW/A7nzPeYsbOgbEHIIGb8EtFZqNvcis/nU10u16by8vLg9evXL6bT6fSioKLgfmy/r/bF975cE6h9viVss\u002B9efxzv9BkGRrfzm/YxI2WH2da8DzE7RMZwc7F/jP7\u002BfjRNs/p8vvCFCxd\u002BSaVSMRXA0bjXW3fgw8\u002Be21nz/mvbRlw7xeckbubozR7jVugVorqTSyPTZI0xXvc3UN\u002B8kRr86LqOx\u002BNhcHBwOUsLgL/jg/a28Lq3DzVcXtuS\u002B1RZGMgzqXSSW3cQWxbchknthiquzhbpST6CsqaWysoKAoEAXq8Xq9W67AILQF3Ac/Dl\u002BqGKJuMbZa7PwNX0E9seP8ihHQHeaqokMzWLz16G4nbSl7Axl7eUziNhhbUAVICt61JPP\u002BH90ZkZdfCt8QUTf9kwzH8RUiIR5IsqFaoFm93G6GyBZFqnaq0DKQHlrkcB1KqAan\u002B36UyNLTKinLd8Jd0te5SQtLAYTUlUYtzR0XWDgmliSllalsh7PoBl4kbtgc3i97IrmcNyqGJv8cqlm1KOjiNGxigO36Y4fBsxfBslOk51YZ5ngx78HntJbPUvAlClFntjZry6cL64CyMrVbfTZmkPVSo7qt14HSpa3uDyWJJIMgdSEvS58DjUpQQW73EF1PxEvj2ZLfuzd1rdWqum6taHqpWzUznO3ppB6gaqXaXoqSBZdDEfn\u002BcFi4LNcrcELKW8BIu5oDj3HSscjk3PfX1zaDQxPpWWunsN1G5A2fQoheo64lIhHk8Qcpi81Lgeu3Xple\u002BH9dg7\u002BJ95OBm62nujpy5gMzIpo17LCPdEfIHEXIo7iXls6QUaHlL5ZNdGyt12UJRlyyiKQiQS4fTp0yc1TYtZN1RxOTbN7rB95pnqeM9goKbZtefJp\u002Br9tiJbvCqtVW72N/h5dXsVDpu6eIySXQAUi4VIJEp3d/dJTdPuL2WdnZ09QghhGEaJujD0RerLLCy3hmGIc\u002BfOiWAw2MKSsVdCSvn3qVOn2kt9pJQIIVYV2pUE0DTtH2B\u002BtdIDwn\u002B7nChdLXVvTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T07:20:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b3.svg",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b3.svg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\products\\b3.svg",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b3.svg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\products\\b3.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQESURBVDhPrZRdbJNVHMZ/b/u26xfUbqPYbd2wIKxsbGDYpk6joISJCuIHRkyMVxpDNBpjQjDRZFfeaFiI3ojGS00MshgvIEQkYyTAnJMs4yPb2Nqt27p17d5\u002B0L7v23O8WDc28JIneXK\u002B/ufJ\u002BZ/znD88SEgplXvnurq6jjc2Nn5UWkdKuRQLgBCCfD5PNpvtPnr06JFoNBpbrXAPurq6hoQQolgs/i9N0xQDAwOir69PnDhx4tdwOLxl5X7rygFAR0fHkba2tkohwdRTiNw1lMwP6DM/Y0z9AcDwhMHOljacTmfIbrfXTE5OXkskEon7BO2tbyr1za1HbuTKKm9N9rLW/A7nzPeYsbOgbEHIIGb8EtFZqNvcis/nU10u16by8vLg9evXL6bT6fSioKLgfmy/r/bF975cE6h9viVss\u002B9efxzv9BkGRrfzm/YxI2WH2da8DzE7RMZwc7F/jP7\u002BfjRNs/p8vvCFCxd\u002BSaVSMRXA0bjXW3fgw8\u002Be21nz/mvbRlw7xeckbubozR7jVugVorqTSyPTZI0xXvc3UN\u002B8kRr86LqOx\u002BNhcHBwOUsLgL/jg/a28Lq3DzVcXtuS\u002B1RZGMgzqXSSW3cQWxbchknthiquzhbpST6CsqaWysoKAoEAXq8Xq9W67AILQF3Ac/Dl\u002BqGKJuMbZa7PwNX0E9seP8ihHQHeaqokMzWLz16G4nbSl7Axl7eUziNhhbUAVICt61JPP\u002BH90ZkZdfCt8QUTf9kwzH8RUiIR5IsqFaoFm93G6GyBZFqnaq0DKQHlrkcB1KqAan\u002B36UyNLTKinLd8Jd0te5SQtLAYTUlUYtzR0XWDgmliSllalsh7PoBl4kbtgc3i97IrmcNyqGJv8cqlm1KOjiNGxigO36Y4fBsxfBslOk51YZ5ngx78HntJbPUvAlClFntjZry6cL64CyMrVbfTZmkPVSo7qt14HSpa3uDyWJJIMgdSEvS58DjUpQQW73EF1PxEvj2ZLfuzd1rdWqum6taHqpWzUznO3ppB6gaqXaXoqSBZdDEfn\u002BcFi4LNcrcELKW8BIu5oDj3HSscjk3PfX1zaDQxPpWWunsN1G5A2fQoheo64lIhHk8Qcpi81Lgeu3Xple\u002BH9dg7\u002BJ95OBm62nujpy5gMzIpo17LCPdEfIHEXIo7iXls6QUaHlL5ZNdGyt12UJRlyyiKQiQS4fTp0yc1TYtZN1RxOTbN7rB95pnqeM9goKbZtefJp\u002Br9tiJbvCqtVW72N/h5dXsVDpu6eIySXQAUi4VIJEp3d/dJTdPuL2WdnZ09QghhGEaJujD0RerLLCy3hmGIc\u002BfOiWAw2MKSsVdCSvn3qVOn2kt9pJQIIVYV2pUE0DTtH2B\u002BtdIDwn\u002B7nChdLXVvTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T07:20:06.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b2.svg",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b2.svg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\products\\b2.svg",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b2.svg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\products\\b2.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQESURBVDhPrZRdbJNVHMZ/b/u26xfUbqPYbd2wIKxsbGDYpk6joISJCuIHRkyMVxpDNBpjQjDRZFfeaFiI3ojGS00MshgvIEQkYyTAnJMs4yPb2Nqt27p17d5\u002B0L7v23O8WDc28JIneXK\u002B/ufJ\u002BZ/znD88SEgplXvnurq6jjc2Nn5UWkdKuRQLgBCCfD5PNpvtPnr06JFoNBpbrXAPurq6hoQQolgs/i9N0xQDAwOir69PnDhx4tdwOLxl5X7rygFAR0fHkba2tkohwdRTiNw1lMwP6DM/Y0z9AcDwhMHOljacTmfIbrfXTE5OXkskEon7BO2tbyr1za1HbuTKKm9N9rLW/A7nzPeYsbOgbEHIIGb8EtFZqNvcis/nU10u16by8vLg9evXL6bT6fSioKLgfmy/r/bF975cE6h9viVss\u002B9efxzv9BkGRrfzm/YxI2WH2da8DzE7RMZwc7F/jP7\u002BfjRNs/p8vvCFCxd\u002BSaVSMRXA0bjXW3fgw8\u002Be21nz/mvbRlw7xeckbubozR7jVugVorqTSyPTZI0xXvc3UN\u002B8kRr86LqOx\u002BNhcHBwOUsLgL/jg/a28Lq3DzVcXtuS\u002B1RZGMgzqXSSW3cQWxbchknthiquzhbpST6CsqaWysoKAoEAXq8Xq9W67AILQF3Ac/Dl\u002BqGKJuMbZa7PwNX0E9seP8ihHQHeaqokMzWLz16G4nbSl7Axl7eUziNhhbUAVICt61JPP\u002BH90ZkZdfCt8QUTf9kwzH8RUiIR5IsqFaoFm93G6GyBZFqnaq0DKQHlrkcB1KqAan\u002B36UyNLTKinLd8Jd0te5SQtLAYTUlUYtzR0XWDgmliSllalsh7PoBl4kbtgc3i97IrmcNyqGJv8cqlm1KOjiNGxigO36Y4fBsxfBslOk51YZ5ngx78HntJbPUvAlClFntjZry6cL64CyMrVbfTZmkPVSo7qt14HSpa3uDyWJJIMgdSEvS58DjUpQQW73EF1PxEvj2ZLfuzd1rdWqum6taHqpWzUznO3ppB6gaqXaXoqSBZdDEfn\u002BcFi4LNcrcELKW8BIu5oDj3HSscjk3PfX1zaDQxPpWWunsN1G5A2fQoheo64lIhHk8Qcpi81Lgeu3Xple\u002BH9dg7\u002BJ95OBm62nujpy5gMzIpo17LCPdEfIHEXIo7iXls6QUaHlL5ZNdGyt12UJRlyyiKQiQS4fTp0yc1TYtZN1RxOTbN7rB95pnqeM9goKbZtefJp\u002Br9tiJbvCqtVW72N/h5dXsVDpu6eIySXQAUi4VIJEp3d/dJTdPuL2WdnZ09QghhGEaJujD0RerLLCy3hmGIc\u002BfOiWAw2MKSsVdCSvn3qVOn2kt9pJQIIVYV2pUE0DTtH2B\u002BtdIDwn\u002B7nChdLXVvTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T07:28:25.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "b1.svg",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b1.svg",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\images\\products\\b1.svg",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\b1.svg",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\images\\products\\b1.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQESURBVDhPrZRdbJNVHMZ/b/u26xfUbqPYbd2wIKxsbGDYpk6joISJCuIHRkyMVxpDNBpjQjDRZFfeaFiI3ojGS00MshgvIEQkYyTAnJMs4yPb2Nqt27p17d5\u002B0L7v23O8WDc28JIneXK\u002B/ufJ\u002BZ/znD88SEgplXvnurq6jjc2Nn5UWkdKuRQLgBCCfD5PNpvtPnr06JFoNBpbrXAPurq6hoQQolgs/i9N0xQDAwOir69PnDhx4tdwOLxl5X7rygFAR0fHkba2tkohwdRTiNw1lMwP6DM/Y0z9AcDwhMHOljacTmfIbrfXTE5OXkskEon7BO2tbyr1za1HbuTKKm9N9rLW/A7nzPeYsbOgbEHIIGb8EtFZqNvcis/nU10u16by8vLg9evXL6bT6fSioKLgfmy/r/bF975cE6h9viVss\u002B9efxzv9BkGRrfzm/YxI2WH2da8DzE7RMZwc7F/jP7\u002BfjRNs/p8vvCFCxd\u002BSaVSMRXA0bjXW3fgw8\u002Be21nz/mvbRlw7xeckbubozR7jVugVorqTSyPTZI0xXvc3UN\u002B8kRr86LqOx\u002BNhcHBwOUsLgL/jg/a28Lq3DzVcXtuS\u002B1RZGMgzqXSSW3cQWxbchknthiquzhbpST6CsqaWysoKAoEAXq8Xq9W67AILQF3Ac/Dl\u002BqGKJuMbZa7PwNX0E9seP8ihHQHeaqokMzWLz16G4nbSl7Axl7eUziNhhbUAVICt61JPP\u002BH90ZkZdfCt8QUTf9kwzH8RUiIR5IsqFaoFm93G6GyBZFqnaq0DKQHlrkcB1KqAan\u002B36UyNLTKinLd8Jd0te5SQtLAYTUlUYtzR0XWDgmliSllalsh7PoBl4kbtgc3i97IrmcNyqGJv8cqlm1KOjiNGxigO36Y4fBsxfBslOk51YZ5ngx78HntJbPUvAlClFntjZry6cL64CyMrVbfTZmkPVSo7qt14HSpa3uDyWJJIMgdSEvS58DjUpQQW73EF1PxEvj2ZLfuzd1rdWqum6taHqpWzUznO3ppB6gaqXaXoqSBZdDEfn\u002BcFi4LNcrcELKW8BIu5oDj3HSscjk3PfX1zaDQxPpWWunsN1G5A2fQoheo64lIhHk8Qcpi81Lgeu3Xple\u002BH9dg7\u002BJ95OBm62nujpy5gMzIpo17LCPdEfIHEXIo7iXls6QUaHlL5ZNdGyt12UJRlyyiKQiQS4fTp0yc1TYtZN1RxOTbN7rB95pnqeM9goKbZtefJp\u002Br9tiJbvCqtVW72N/h5dXsVDpu6eIySXQAUi4VIJEp3d/dJTdPuL2WdnZ09QghhGEaJujD0RerLLCy3hmGIc\u002BfOiWAw2MKSsVdCSvn3qVOn2kt9pJQIIVYV2pUE0DTtH2B\u002BtdIDwn\u002B7nChdLXVvTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-11T07:28:24.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:24:27.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:24:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:24:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Index1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Book\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Index1.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Book\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:21:58.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T07:21:49.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\TH1\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:37:17.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

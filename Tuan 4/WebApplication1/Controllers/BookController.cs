@@ -1,0 +1,101 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+
+namespace WebApplication1.Controllers
+{
+    public class BookController : Controller
+    {
+        public IActionResult Index()
+        {
+            var books = BookRepository.GetBookList();
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            return View(books);
+        }
+
+        [HttpPost]
+        public IActionResult Index(int? AuthorId, int? GenreId)
+        {
+            var books = BookRepository.GetBookList().AsQueryable();
+
+            if (AuthorId.HasValue)
+            {
+                books = books.Where(b => b.AuthorId == AuthorId.Value);
+            }
+
+            if (GenreId.HasValue)
+            {
+                books = books.Where(b => b.GenreId == GenreId.Value);
+            }
+
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            return View(books.ToList());
+        }
+
+        public IActionResult Create()
+        {
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            Book model = new Book();
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Book book)
+        {
+            // Basic model validation; repository is in-memory so we just redirect back to index after "creating"
+            if (!ModelState.IsValid)
+            {
+                ViewBag.authors = BookRepository.Authors;
+                ViewBag.genres = BookRepository.Genres;
+                return View(book);
+            }
+
+            // In a real app you'd persist the book. Here we just redirect to the list.
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var book = BookRepository.GetBookById(id);
+            // Edit method preserved (no-op)
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            ViewBag.authors = BookRepository.Authors;
+            ViewBag.genres = BookRepository.Genres;
+            return View(book);
+        }
+
+        public PartialViewResult PopularBook()
+        {
+            var books = BookRepository.GetBookList();
+            return PartialView("PopularBook", books);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(int id, Book book)
+        {
+            if (id != book.Id)
+            {
+                return BadRequest();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                ViewBag.authors = BookRepository.Authors;
+                ViewBag.genres = BookRepository.Genres;
+                return View(book);
+            }
+
+            // In-memory repository; nothing to update. Redirect to Index.
+            return RedirectToAction("Index");
+        }
+    }
+}
+
