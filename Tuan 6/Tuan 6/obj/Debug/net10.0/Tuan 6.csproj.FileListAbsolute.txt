@@ -1,0 +1,99 @@
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.exe
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.deps.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.runtimeconfig.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.dll
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\bin\Debug\net10.0\Tuan 6.pdb
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.sourcelink.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\scopedcss\bundle\Tuan 6.styles.css
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\scopedcss\projectbundle\Tuan 6.bundle.scp.css
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\dxs2rwhbpy-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\20m4uqqcig-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\jiw8xj82no-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\3tje7al6uu-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\q14cekbxpv-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ns5u6z0hlq-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ag8rigzzqd-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\37mk4tkz65-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\nwyledq38l-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\w3bj7xiu58-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\nz19w47hum-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\c8p2k61x7r-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\wed84c4h8k-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\2ezsniqaed-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\rm6k6gsdb2-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\k1clsbh8ip-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\mq18yk2d2j-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\qd74s9h08w-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\exhrvh92mn-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ymrnd0a4ec-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\3fckbylq2h-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\mq2s1itl6g-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\nzx41vg9o5-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ynpz1x9dpf-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\y7p1o1sl2l-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\xvg426vgwi-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\n60zpq0bi1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\33ick9ios0-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\4z8diabwus-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\kocrrk30ph-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\9odr2n20pr-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\dxhveg2yx2-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\0ngl6fbai8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\44iscvx3ke-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\xgipin5f6z-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\22z13mvp1r-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ksuh6jmk18-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\y4ck2u98gj-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\pzqg46efsd-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\44zm45loa6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\5gsfkklgqq-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\luqezzqwug-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\twm0nusfca-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ci2uyzm8co-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\55qw5em4iu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\lsfq1uk6r7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\moxs0iagi1-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\amz25wciai-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\4eom6e4z6s-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\2c1mo5hqa9-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\c3wvsg1007-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\4oy65fe7z6-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\0tsn50cb7h-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\h7uc87okbg-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ychxwkmzwp-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\6cexiyggiq-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\192j4ybc3n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\jn87xy9abu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\1ae2y8xoq3-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\5que6d6vsa-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\xfgrat9818-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\ao1i3edyb9-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\164nrbmilw-{0}-a3plynof44-a3plynof44.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\compressed\tzwi0tgle4-{0}-a3plynof44-a3plynof44.gz
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.dll
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\refint\Tuan 6.dll
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.pdb
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\Tuan 6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BTVN2\BTVN-Web\Tuan 6\Tuan 6\obj\Debug\net10.0\ref\Tuan 6.dll

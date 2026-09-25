@@ -1,0 +1,131 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using Tuan_6.Models;
+
+namespace Tuan_6.Controllers
+{
+    public class XmaiMemberController : Controller
+    {
+        // Khởi tạo danh sách 5 thành viên
+        private static readonly List<XmaiMember> XmaiMembers = new List<XmaiMember>()
+        {
+            new XmaiMember
+            {
+                XmaiMemberId = Guid.NewGuid().ToString(),
+                XmaiMemberUsername = "xuanmai",
+                XmaiMemberPassword = "password123",
+                XmaiMemberEmail = "minh.nguyen@example.com",
+                XmaiMemFullname = "Nguyễn Thị Xuân Minh"
+            },
+            new XmaiMember
+            {
+                XmaiMemberId = Guid.NewGuid().ToString(),
+                XmaiMemberUsername = "quangminh",
+                XmaiMemberPassword = "password123",
+                XmaiMemberEmail = "minh.bui@example.com",
+                XmaiMemFullname = "Bùi Quang Minh"
+            },
+            new XmaiMember
+            {
+                XmaiMemberId = Guid.NewGuid().ToString(),
+                XmaiMemberUsername = "phu_dev",
+                XmaiMemberPassword = "password123",
+                XmaiMemberEmail = "phu@example.com",
+                XmaiMemFullname = "Thành viên Phú"
+            },
+            new XmaiMember
+            {
+                XmaiMemberId = Guid.NewGuid().ToString(),
+                XmaiMemberUsername = "admin_cntt",
+                XmaiMemberPassword = "password123",
+                XmaiMemberEmail = "admin.cntt2@example.com",
+                XmaiMemFullname = "Quản Trị Viên"
+            },
+            new XmaiMember
+            {
+                XmaiMemberId = Guid.NewGuid().ToString(),
+                XmaiMemberUsername = "guest_user",
+                XmaiMemberPassword = "password123",
+                XmaiMemberEmail = "guest@example.com",
+                XmaiMemFullname = "Khách Truy Cập"
+            }
+        };
+
+        // GET: Hiển thị danh sách
+        [HttpGet]
+        [Route("/XmaiMember")]
+        [Route("/XmaiMember/Index")]
+        public IActionResult Index()
+        {
+            return View(XmaiMembers);
+        }
+
+        // GET: Hiển thị form thêm mới
+        [HttpGet]
+        [Route("/XmaiMember/Create")]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Xử lý lưu dữ liệu khi bấm submit
+        [HttpPost]
+        [Route("/XmaiMember/Create")]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(XmaiMember member)
+        {
+            member.XmaiMemberId = Guid.NewGuid().ToString();
+
+            // Thêm vào danh sách
+            XmaiMembers.Add(member);
+
+            // Chuyển hướng về trang danh sách sau khi thêm thành công
+            return RedirectToAction(nameof(Index));
+        }
+
+        // GET: /XmaiMember/Edit/{id}
+        public IActionResult Edit(string id)
+        {
+            if (string.IsNullOrEmpty(id)) return BadRequest();
+
+            var member = XmaiMembers.FirstOrDefault(m => m.XmaiMemberId == id);
+            if (member == null) return NotFound();
+
+            return View(member);
+        }
+
+        // POST: /XmaiMember/Edit
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(XmaiMember updated)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(updated);
+            }
+
+            var existing = XmaiMembers.FirstOrDefault(m => m.XmaiMemberId == updated.XmaiMemberId);
+            if (existing == null) return NotFound();
+
+            existing.XmaiMemberUsername = updated.XmaiMemberUsername;
+            existing.XmaiMemberPassword = updated.XmaiMemberPassword;
+            existing.XmaiMemberEmail = updated.XmaiMemberEmail;
+            existing.XmaiMemFullname = updated.XmaiMemFullname;
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        // GET: /XmaiMember/Details/{id}
+        public IActionResult Details(string id)
+        {
+            if (string.IsNullOrEmpty(id)) return BadRequest();
+
+            var member = XmaiMembers.FirstOrDefault(m => m.XmaiMemberId == id);
+            if (member == null) return NotFound();
+
+            return View("GetDetails", member);
+        }
+    }
+}

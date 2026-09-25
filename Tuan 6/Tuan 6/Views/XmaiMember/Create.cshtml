@@ -1,0 +1,49 @@
+@model Tuan_6.Models.XmaiMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>XmaiMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="XmaiMemberUsername" class="control-label"></label>
+                <input asp-for="XmaiMemberUsername" class="form-control" />
+                <span asp-validation-for="XmaiMemberUsername" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="XmaiMemberPassword" class="control-label"></label>
+                <input asp-for="XmaiMemberPassword" class="form-control" />
+                <span asp-validation-for="XmaiMemberPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="XmaiMemberEmail" class="control-label"></label>
+                <input asp-for="XmaiMemberEmail" class="form-control" />
+                <span asp-validation-for="XmaiMemberEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="XmaiMemFullname" class="control-label"></label>
+                <input asp-for="XmaiMemFullname" class="form-control" />
+                <span asp-validation-for="XmaiMemFullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
