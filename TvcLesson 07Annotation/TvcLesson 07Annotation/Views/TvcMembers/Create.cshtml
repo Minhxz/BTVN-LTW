@@ -1,0 +1,50 @@
+@model TvcLesson_07Annotation.Models.TvcMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TvcMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="TvcUserName" class="control-label"></label>
+                <input asp-for="TvcUserName" class="form-control" />
+                <span asp-validation-for="TvcUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvcPassword" class="control-label"></label>
+                <input asp-for="TvcPassword" class="form-control" />
+                <span asp-validation-for="TvcPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvcEmail" class="control-label"></label>
+                <input asp-for="TvcEmail" class="form-control" />
+                <span asp-validation-for="TvcEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvcPhone" class="control-label"></label>
+                <input asp-for="TvcPhone" class="form-control" />
+                <span asp-validation-for="TvcPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

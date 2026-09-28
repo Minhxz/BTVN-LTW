@@ -1,0 +1,35 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TvcLesson_07Annotation.Models
+{
+    //<summary>
+    ///Model class Member
+    
+    ///Author : Bui Quang Minh
+    //</summary>
+    public class TvcMember
+    {
+        public int Id { get; set; }
+
+        [DisplayName("Tai khoan")]
+        [Required(ErrorMessage = "Tai khoan khong duoc de trong")])]
+        [StringLength(20,MinimumLength = 3,ErrorMessage= "Tai khoan co do dai tu 3 den 20 ky tu")]
+        public string TvcUserName { get; set; }
+
+        [DisplayName("Mat khau")]
+        [StringLength(100,MinimumLength = 6,ErrorMessage = "Mat khau co do dai tu 6 den 100 ky tu")]
+        public string TvcPassword { get; set; }
+        
+        [DisplayName("Email")]
+        [Required(ErrorMessage = "Email khong duoc de trong")]
+        [DataType(DataType.EmailAddress)]
+        [EmailAddress(ErrorMessage = "Email khong hop le")]
+        public string TvcEmail { get; set; }
+
+        [DisplayName("So dien thoai")]
+        [Required(ErrorMessage = "So dien thoai khong duoc de trong")]
+        [RegularExpression(@"^\d{10}$", ErrorMessage = "So dien thoai phai co 10 chu so")]
+        [DataType(DataType.PhoneNumber)]
+        public string TvcPhone { get; set; }
+    }
+}

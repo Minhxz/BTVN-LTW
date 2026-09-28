@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TvcLesson 07Annotation/1.0.0": {
+        "runtime": {
+          "TvcLesson 07Annotation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TvcLesson 07Annotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
