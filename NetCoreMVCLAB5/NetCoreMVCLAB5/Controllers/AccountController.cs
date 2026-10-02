@@ -1,0 +1,128 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+using NetCoreMVCLAB5.Models;
+
+namespace NetCoreMVCLAB5.Controllers
+{
+    public class AccountController : Controller
+    {
+        // in-memory store for demo purposes
+        private static readonly List<Account> _accounts = new List<Account>
+        {
+            new Account { Id = 1, FullName = "Nguyen Van A", Email = "a@example.com", Phone = "0123456789", Address = "Hanoi", Birthday = new DateTime(1990,1,1), Gender = "Male", Facebook = "https://facebook.com/nguyenvana" },
+            new Account { Id = 2, FullName = "Tran Thi B", Email = "b@example.com", Phone = "0987654321", Address = "HCMC", Birthday = new DateTime(1992,5,20), Gender = "Female", Facebook = "https://facebook.com/tranthib" }
+        };
+        // GET: AccountController
+        public ActionResult Index()
+        {
+            return View(_accounts);
+        }
+
+        // GET: AccountController/Details/5
+        public ActionResult Details(int id)
+        {
+            var account = _accounts.FirstOrDefault(a => a.Id == id);
+            if (account == null) return NotFound();
+            return View(account);
+        }
+
+        // GET: AccountController/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: AccountController/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Account account)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(account);
+            }
+
+            // simple id assignment
+            var nextId = _accounts.Any() ? _accounts.Max(a => a.Id) + 1 : 1;
+            account.Id = nextId;
+            _accounts.Add(account);
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        // GET: AccountController/Edit/5
+        public ActionResult Edit(int id)
+        {
+            var account = _accounts.FirstOrDefault(a => a.Id == id);
+            if (account == null) return NotFound();
+            return View(account);
+        }
+
+        // POST: AccountController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(int id, Account account)
+        {
+            if (id != account.Id) return BadRequest();
+
+            if (!ModelState.IsValid)
+            {
+                return View(account);
+            }
+
+            var existing = _accounts.FirstOrDefault(a => a.Id == id);
+            if (existing == null) return NotFound();
+
+            // update fields
+            existing.FullName = account.FullName;
+            existing.Email = account.Email;
+            existing.Phone = account.Phone;
+            existing.Address = account.Address;
+            existing.Avatar = account.Avatar;
+            existing.Birthday = account.Birthday;
+            existing.Gender = account.Gender;
+            existing.Password = account.Password;
+            existing.Facebook = account.Facebook;
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        // GET: AccountController/Delete/5
+        public ActionResult Delete(int id)
+        {
+            var account = _accounts.FirstOrDefault(a => a.Id == id);
+            if (account == null) return NotFound();
+            return View(account);
+        }
+
+        // POST: AccountController/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            var account = _accounts.FirstOrDefault(a => a.Id == id);
+            if (account == null) return NotFound();
+            _accounts.Remove(account);
+            return RedirectToAction(nameof(Index));
+        }
+
+        [AcceptVerbs("GET", "POST")]
+        public IActionResult VerifyPhone(string phone)
+        {
+            // allow empty here; Required attribute will handle missing input
+            if (string.IsNullOrEmpty(phone)) return Json(true);
+
+            var rx = new Regex("^\\(?([0-9]{3})\\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$");
+            if (!rx.IsMatch(phone))
+            {
+                return Json($"Số điện thoại {phone} Không đúng định dạng, VD: 0986421127 hoặc 098.642.1127");
+            }
+
+            return Json(true);
+        }
+    }
+}

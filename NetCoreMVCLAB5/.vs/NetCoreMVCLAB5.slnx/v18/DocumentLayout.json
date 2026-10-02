@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\netcoremvclab5\\netcoremvclab5\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA70ECC5-0075-4E15-B093-91619F6D85ED}|NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj|solutionrelative:netcoremvclab5\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T17:23:16.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Views\\Account\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T17:25:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T17:25:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Views\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Views\\Account\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T17:25:05.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:10:14.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T17:12:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Models\\Account.cs",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:01:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB5\\Program.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\Program.cs",
+              "RelativeToolTip": "NetCoreMVCLAB5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:01:26.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

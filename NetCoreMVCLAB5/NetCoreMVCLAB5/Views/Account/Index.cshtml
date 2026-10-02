@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using System.Linq
+@model IEnumerable<NetCoreMVCLAB5.Models.Account>
+
+<h2>Accounts</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No accounts available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Address</th>
+                <th>Birthday</th>
+                <th>Gender</th>
+                <th>Facebook</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var acct in Model)
+        {
+            <tr>
+                <td>@acct.Id</td>
+                <td>@acct.FullName</td>
+                <td>@acct.Email</td>
+                <td>@acct.Phone</td>
+                <td>@acct.Address</td>
+                <td>@acct.Birthday.ToShortDateString()</td>
+                <td>@acct.Gender</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(acct.Facebook))
+                    {
+                        <a href="@acct.Facebook" target="_blank">Profile</a>
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}

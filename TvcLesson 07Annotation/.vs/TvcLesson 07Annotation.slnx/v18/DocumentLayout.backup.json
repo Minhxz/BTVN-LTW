@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\tvclesson 07annotation\\tvclesson 07annotation\\models\\tvcmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|solutionrelative:tvclesson 07annotation\\models\\tvcmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\tvclesson 07annotation\\tvclesson 07annotation\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|solutionrelative:tvclesson 07annotation\\controllers\\tvcmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\tvclesson 07annotation\\tvclesson 07annotation\\views\\tvcmembers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|solutionrelative:tvclesson 07annotation\\views\\tvcmembers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\tvclesson 07annotation\\tvclesson 07annotation\\models\\tvcmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|solutionrelative:tvclesson 07annotation\\models\\tvcmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFA35903-23B9-422B-AFA8-4D7AA58DD6B2}|TvcLesson 07Annotation\\TvcLesson 07Annotation.csproj|c:\\users\\buiqu\\desktop\\btvn-web2\\btvn-ltw\\tvclesson 07annotation\\tvclesson 07annotation\\views\\tvcmembers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TvcMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
+              "RelativeDocumentMoniker": "TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
+              "RelativeToolTip": "TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:32:17.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Views\\TvcMembers\\Create.cshtml",
               "RelativeDocumentMoniker": "TvcLesson 07Annotation\\Views\\TvcMembers\\Create.cshtml",
@@ -51,19 +64,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-28T03:44:48.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TvcMembersController.cs",
-              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
-              "RelativeDocumentMoniker": "TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs",
-              "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs*",
-              "RelativeToolTip": "TvcLesson 07Annotation\\Controllers\\TvcMembersController.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T03:32:17.937Z",
               "EditorCaption": ""
             },
             {
@@ -81,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TvcMember.cs",
               "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Models\\TvcMember.cs",
               "RelativeDocumentMoniker": "TvcLesson 07Annotation\\Models\\TvcMember.cs",
               "ToolTip": "C:\\Users\\buiqu\\Desktop\\BTVN-WEB2\\BTVN-LTW\\TvcLesson 07Annotation\\TvcLesson 07Annotation\\Models\\TvcMember.cs",
               "RelativeToolTip": "TvcLesson 07Annotation\\Models\\TvcMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T03:23:31.803Z",
               "EditorCaption": ""
