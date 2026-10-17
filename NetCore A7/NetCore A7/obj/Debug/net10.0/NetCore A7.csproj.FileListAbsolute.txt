@@ -1,0 +1,208 @@
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.staticwebassets.runtime.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.staticwebassets.endpoints.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.exe
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.deps.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.pdb
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\bundle\NetCore A7.styles.css
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\projectbundle\NetCore A7.bundle.scp.css
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\usn5jhbu7i-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tnaexxebnm-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\653lmituxy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\nbcddb1rs8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ewlo4aue0b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vmv11bc04z-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\sw2f5wc0t0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\keplcju3s6-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9z3ecxrf4s-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\moqveddx5k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\j4cf1z7yzh-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9r6vibmffa-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\o6dhf9ia09-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cxt0n6m449-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\i9td0wqybs-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\71frhtrrrt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\kijq3yuvjt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\x2v2f7w5so-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cakca19zlp-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\0xl6dmo619-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\05vif48a49-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\0o8yhnduvy-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\gxue0jtvga-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\w49uoim4qc-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\qazkqalw3g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\zc624gkgv8-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\htkmtdi6nw-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\eytx6u5x3a-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\mt889vtyik-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\19wl9c0907-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tdbliwmg0p-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\amhthqm473-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\3m5uzpoe8e-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vypjygwqv8-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\54zz3qzumf-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\6vm2cuhbx8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\67lb356shh-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\u5zfk1rfmi-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\specoj43l7-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\5kdll12j8i-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ukwwrq75fz-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9vio8rqdvk-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\azx6yqarrr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ns99i34oyd-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\omrpzgt1cn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\isoe5s9dwn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9ux2oxd9sg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\qxt0tajl1u-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\fxljhxhvgd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\xc9wz1fc5i-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\sx6b0eyhaq-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\wf8al8vlzz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\2bpr3rojdv-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\2m6vru79m4-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\h0v5o7r9sd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cgmwlcp675-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\yjjdutteu5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vdh7sxhbji-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tvmal49edw-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\pd1nnoqaq1-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\d7fmh8dc1t-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ov8alzaqbl-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\udd9zyunfl-{0}-cv5fjd2qbv-cv5fjd2qbv.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\yomsliwi3h-{0}-cv5fjd2qbv-cv5fjd2qbv.gz
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\refint\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.pdb
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\ref\NetCore A7.dll
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\appsettings.Development.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\appsettings.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.staticwebassets.runtime.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.staticwebassets.endpoints.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.exe
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.deps.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.runtimeconfig.json
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.dll
+C:\Users\Admin\.gemini\antigravity-ide\brain\133acf7e-8579-4749-963d-74dcca5c8e4a\scratch\buildout\NetCore A7.pdb
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\OneDrive\Desktop\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.csproj.Up2Date
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.staticwebassets.endpoints.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.staticwebassets.runtime.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.exe
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.deps.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\bin\Debug\net10.0\NetCore A7.pdb
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\bundle\NetCore A7.styles.css
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\scopedcss\projectbundle\NetCore A7.bundle.scp.css
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\usn5jhbu7i-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tnaexxebnm-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\653lmituxy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\nbcddb1rs8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ewlo4aue0b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vmv11bc04z-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\sw2f5wc0t0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\keplcju3s6-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9z3ecxrf4s-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\moqveddx5k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\j4cf1z7yzh-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9r6vibmffa-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\o6dhf9ia09-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cxt0n6m449-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\i9td0wqybs-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\71frhtrrrt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\kijq3yuvjt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\x2v2f7w5so-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cakca19zlp-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\0xl6dmo619-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\05vif48a49-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\0o8yhnduvy-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\gxue0jtvga-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\w49uoim4qc-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\qazkqalw3g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\zc624gkgv8-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\htkmtdi6nw-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\eytx6u5x3a-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\mt889vtyik-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\19wl9c0907-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tdbliwmg0p-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\amhthqm473-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\3m5uzpoe8e-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vypjygwqv8-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\54zz3qzumf-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\6vm2cuhbx8-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\67lb356shh-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\u5zfk1rfmi-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\specoj43l7-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\5kdll12j8i-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ukwwrq75fz-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9vio8rqdvk-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\azx6yqarrr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ns99i34oyd-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\omrpzgt1cn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\isoe5s9dwn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\9ux2oxd9sg-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\qxt0tajl1u-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\fxljhxhvgd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\xc9wz1fc5i-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\sx6b0eyhaq-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\wf8al8vlzz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\2bpr3rojdv-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\2m6vru79m4-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\h0v5o7r9sd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\cgmwlcp675-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\yjjdutteu5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\vdh7sxhbji-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\tvmal49edw-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\pd1nnoqaq1-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\d7fmh8dc1t-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\ov8alzaqbl-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\udd9zyunfl-{0}-cv5fjd2qbv-cv5fjd2qbv.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\compressed\yomsliwi3h-{0}-cv5fjd2qbv-cv5fjd2qbv.gz
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\refint\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.pdb
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\ref\NetCore A7.dll
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\OneDrive\Desktop\BTW1710\NetCore A7\NetCore A7\obj\Debug\net10.0\NetCore A7.csproj.Up2Date
