@@ -1,0 +1,101 @@
+@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<div class="page-heading">
+    <div>
+        <p class="page-kicker">Lab 2 · Lesson 10</p>
+        <h1>Danh sách sinh viên</h1>
+        <p class="text-muted mb-0">Thông tin sinh viên và hệ đào tạo.</p>
+    </div>
+    <span class="student-count">@Model.Count() sinh viên</span>
+</div>
+
+@if (TempData["Success"] is string success)
+{
+    <div class="alert alert-success" role="status">@success</div>
+}
+
+<div class="d-flex flex-wrap gap-2 mb-3">
+    @* Cách 1: HTML thuần, viết đường dẫn vào thuộc tính href. *@
+    <a href="@Url.Content("~/Admin/Student/Add")" class="btn btn-primary">Thêm sinh viên</a>
+    @* Cách 2: Tag Helper liên kết theo controller và action. *@
+    <a asp-controller="Student" asp-action="Create" class="btn btn-outline-primary">Thêm (cách 2)</a>
+    @* Cách 3: Tag Helper liên kết theo tên route. *@
+    <a asp-route="StudentAdd" class="btn btn-outline-primary">Thêm (cách 3)</a>
+</div>
+
+<div class="table-responsive student-table-wrap">
+    <table class="table table-striped table-hover align-middle mb-0 student-table">
+        <thead>
+            <tr>
+                <th scope="col">Ảnh</th>
+                <th scope="col">Mã</th>
+                <th scope="col">Họ tên</th>
+                <th scope="col">Ngày sinh</th>
+                <th scope="col">Ngành</th>
+                <th scope="col">Giới tính</th>
+                <th scope="col">Hệ đào tạo</th>
+                <th scope="col">Địa chỉ</th>
+                <th scope="col">Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                var branchName = student.Branch switch
+                {
+                    Branch.IT => "CNTT",
+                    Branch.BE => "Kinh tế",
+                    Branch.CE => "Công trình",
+                    Branch.EE => "Điện - Điện tử",
+                    _ => "—"
+                };
+                var genderName = student.Gender switch
+                {
+                    Gender.Male => "Nam",
+                    Gender.Female => "Nữ",
+                    _ => "—"
+                };
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrWhiteSpace(student.AvatarPath))
+                        {
+                            <img class="student-avatar" src="@Url.Content(student.AvatarPath)" alt="Ảnh đại diện của @student.Name" loading="lazy" />
+                        }
+                        else
+                        {
+                            <span class="student-avatar avatar-placeholder" role="img" aria-label="Chưa có ảnh đại diện">@(string.IsNullOrWhiteSpace(student.Name) ? "?" : student.Name.Trim()[0].ToString().ToUpperInvariant())</span>
+                        }
+                    </td>
+                    <td>@student.Id</td>
+                    <td class="fw-semibold">@student.Name</td>
+                    <td class="text-nowrap">@(student.DateOfBorth == DateTime.MinValue ? "—" : student.DateOfBorth.ToString("dd/MM/yyyy"))</td>
+                    <td>@branchName</td>
+                    <td>@genderName</td>
+                    <td><span class="training-label @(student.IsRegular ? "regular" : "nonregular")">@(student.IsRegular ? "Chính quy" : "Phi chính quy")</span></td>
+                    <td>@student.Address</td>
+                    <td>@student.Email</td>
+                </tr>
+            }
+            @if (!Model.Any())
+            {
+                <tr><td colspan="9" class="text-center text-muted py-5">Chưa có sinh viên. Hãy thêm sinh viên đầu tiên.</td></tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        const table = document.querySelector("table");
+        if (table) {
+            table.addEventListener("click", function () {
+                table.style.backgroundColor = "yellow";
+                table.style.setProperty("--bs-table-bg", "yellow");
+                table.style.setProperty("--bs-table-striped-bg", "#fff3cd");
+            });
+        }
+    </script>
+}

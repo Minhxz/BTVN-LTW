@@ -1,0 +1,37 @@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - Quản lý sinh viên</title>
+    <link rel="stylesheet" href="~/sb-admin/css/styles.css" />
+    <link rel="stylesheet" href="~/css/lab2.css" asp-append-version="true" />
+</head>
+<body class="sb-nav-fixed">
+    <partial name="TopNav" />
+
+    <div id="layoutSidenav">
+        <div id="layoutSidenav_nav">
+            @await Component.InvokeAsync("Render")
+        </div>
+
+        <div id="layoutSidenav_content">
+            <main>
+                <div class="container-fluid px-4 py-4">
+                    @RenderBody()
+                </div>
+            </main>
+
+            <partial name="Footer" />
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/sb-admin/js/scripts.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

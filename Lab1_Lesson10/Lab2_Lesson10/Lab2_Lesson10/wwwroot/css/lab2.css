@@ -1,0 +1,60 @@
+.page-heading {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.page-heading h1 { font-size: 1.75rem; }
+.page-kicker { color: #6c757d; font-size: .85rem; }
+.student-count {
+    padding: .5rem .75rem;
+    background: #e9ecef;
+    border-radius: .4rem;
+}
+.student-table-wrap, .student-form-panel {
+    border: 1px solid #dee2e6;
+    border-radius: .5rem;
+    background: white;
+}
+.student-table { min-width: 960px; }
+.student-table th, .student-table td { padding: .75rem; }
+.student-avatar {
+    display: block;
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.avatar-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e0eaf6;
+    color: #335e92;
+}
+.student-form-panel { padding: 1.5rem; max-width: 950px; }
+.gender-options { min-height: 38px; display: flex; align-items: center; }
+.training-label {
+    display: inline-block;
+    padding: .2rem .4rem;
+    border-radius: .25rem;
+    white-space: nowrap;
+    font-size: .85rem;
+}
+.regular { background: #e5f2eb; color: #216245; }
+.nonregular { background: #ececf1; color: #5e6070; }
+.field-validation-error { display: block; }
+.input-validation-error { border-color: #dc3545; }
+
+.sb-topnav .navbar-brand { font-size: 1.05rem; }
+.sb-sidenav .nav-link.active { background: #304254; color: #fff; }
+.sb-sidenav .nav-link.disabled { opacity: .55; cursor: default; }
+.student-table { font-size: .9rem; }
+.student-table th { white-space: nowrap; }
+.field-validation-error { margin-top: .25rem; font-size: .875rem; }
+@media (max-width: 575.98px) {
+    .sb-topnav .navbar-brand { width: 185px; font-size: .95rem; }
+    .student-form-panel { padding: 1rem; }
+}
