@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Bài thực hành 3</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" asp-controller="Student" asp-action="Index">Bài thực hành 3 - Validation</a>
+        </div>
+    </nav>
+
+    <div class="container py-4">
+        @RenderBody()
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+        // Việt hóa thông báo mặc định của jQuery Validation
+        $.extend($.validator.messages, {
+            required: "Trường này bắt buộc nhập",
+            number: "Vui lòng nhập số hợp lệ (dùng dấu chấm, ví dụ 8.5)",
+            date: "Vui lòng nhập ngày hợp lệ"
+        });
+
+        // Rule "range" gốc so sánh chuỗi nên sai với ngày tháng -> so sánh theo Date khi là input type=date
+        (function (orig) {
+            $.validator.methods.range = function (value, element, param) {
+                if (element.type === "date") {
+                    if (!value) { return true; }
+                    var d = new Date(value);
+                    return d >= new Date(param[0]) && d <= new Date(param[1]);
+                }
+                return orig.call(this, value, element, param);
+            };
+        })($.validator.methods.range);
+    </script>
+</body>
+</html>
