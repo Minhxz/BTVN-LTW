@@ -1,0 +1,13 @@
+<nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark" aria-label="Thanh điều hướng">
+    <a class="navbar-brand ps-3" asp-controller="Learner" asp-action="Index">Quản lý người học</a>
+    <button class="btn btn-link btn-sm order-1 order-lg-0 me-2" id="sidebarToggle"
+            type="button" aria-label="Đóng mở menu" aria-controls="layoutSidenav_nav">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+    </button>
+    <div class="ms-auto me-3 d-flex align-items-center gap-3">
+        <span class="text-white-50 d-none d-md-block">Bài thực hành 6</span>
+        <a class="btn btn-sm btn-primary d-none d-sm-block" asp-controller="Learner" asp-action="Create">Thêm người học</a>
+    </div>
+</nav>

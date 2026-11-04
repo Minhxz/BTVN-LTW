@@ -1,0 +1,48 @@
+@model LearnerListViewModel
+@{
+    ViewData["Title"] = "Danh sách người học";
+    int? selectedMajorId = Model.MajorId;
+    bool useAjax = Model.UseAjax;
+}
+<div class="ms-2 mx-2">
+    <h1>Danh sách người học</h1>
+    <p class="text-muted">Lọc chuyên ngành, tìm theo tên và xem danh sách theo từng trang.</p>
+
+    <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+        <span>Cách tải dữ liệu:</span>
+        <div class="btn-group" role="group" aria-label="Cách tải dữ liệu">
+            <a asp-action="Index" asp-route-mid="@selectedMajorId" asp-route-useAjax="false"
+               asp-route-keyword="@Model.Keyword" asp-route-pageIndex="@Model.PageIndex"
+               data-load-mode="false" class="btn btn-outline-primary @(!useAjax ? "active" : "")"
+               aria-current="@(!useAjax ? "page" : null)">Tải lại trang</a>
+            <a asp-action="Index" asp-route-mid="@selectedMajorId" asp-route-useAjax="true"
+               asp-route-keyword="@Model.Keyword" asp-route-pageIndex="@Model.PageIndex"
+               data-load-mode="true" class="btn btn-outline-primary @(useAjax ? "active" : "")"
+               aria-current="@(useAjax ? "page" : null)">AJAX</a>
+        </div>
+    </div>
+
+    @await Component.InvokeAsync("Major", new { selectedMajorId, useAjax, keyword = Model.Keyword })
+
+    <form id="learner-search" asp-controller="Learner" asp-action="Index" method="get" class="mb-3" style="max-width: 440px">
+        <input type="hidden" name="mid" value="@Model.MajorId" />
+        <input type="hidden" name="useAjax" value="@useAjax.ToString().ToLowerInvariant()" />
+        <label for="keyword" class="form-label">Tìm theo tên người học</label>
+        <div class="input-group">
+            <input id="keyword" name="keyword" value="@Model.Keyword" type="search"
+                   class="form-control" placeholder="Nhập tên người học…" />
+            <button id="btnSearch" class="btn btn-primary" type="submit">Tìm kiếm</button>
+        </div>
+    </form>
+
+    <p id="filter-status" class="small text-muted" role="status"></p>
+    <div id="filter-error" class="alert alert-danger" role="alert" hidden></div>
+    <div id="content" aria-live="polite" aria-busy="false">
+        <partial name="LearnerTable" model="Model" />
+    </div>
+    <a asp-action="Create" class="btn btn-primary">Thêm người học</a>
+</div>
+
+@section Scripts {
+    <script src="~/js/learner-filter.js" asp-append-version="true"></script>
+}

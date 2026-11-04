@@ -1,0 +1,65 @@
+@model LearnerListViewModel
+
+<div id="learner-results" data-page-index="@Model.PageIndex" data-total-count="@Model.TotalCount"
+     data-mid="@Model.MajorId" data-keyword="@Model.Keyword">
+<div class="table-responsive">
+    <table class="table table-striped align-middle">
+        <caption>
+            @if (Model.TotalCount > 0)
+            {
+                <span>Hiển thị @((Model.PageIndex - 1) * Model.PageSize + 1)–@((Model.PageIndex - 1) * Model.PageSize + Model.Learners.Count) / @Model.TotalCount người học · Trang @Model.PageIndex/@Model.PageCount</span>
+            }
+            else
+            {
+                <span>0 người học</span>
+            }
+        </caption>
+        <thead>
+            <tr>
+                <th scope="col">Mã</th>
+                <th scope="col">Tên</th>
+                <th scope="col">Họ</th>
+                <th scope="col">Ngành</th>
+                <th scope="col">Ngày nhập học</th>
+                <th scope="col">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Learners.Count == 0)
+            {
+                <tr><td colspan="6" class="text-center text-muted py-4">Không tìm thấy người học phù hợp.</td></tr>
+            }
+            @foreach (var learner in Model.Learners)
+            {
+                <tr data-learner-id="@learner.LearnerID" data-major-id="@learner.MajorID">
+                    <td>@learner.LearnerID</td>
+                    <td>@learner.FirstMidName</td>
+                    <td>@learner.LastName</td>
+                    <td>@learner.Major?.MajorName</td>
+                    <td>@learner.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-controller="Learner" asp-action="Edit" asp-route-id="@learner.LearnerID">Sửa</a>
+                        <span aria-hidden="true"> | </span>
+                        <a asp-controller="Learner" asp-action="Delete" asp-route-id="@learner.LearnerID">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@if (Model.PageCount > 0)
+{
+    <nav aria-label="Phân trang người học">
+        <ul class="pagination flex-wrap">
+            @for (var pageNumber = 1; pageNumber <= Model.PageCount; pageNumber++)
+            {
+                <li class="page-item @(pageNumber == Model.PageIndex ? "active" : "")">
+                    <a class="page-link" asp-controller="Learner" asp-action="Index" asp-route-pageIndex="@pageNumber"
+                       asp-route-mid="@Model.MajorId" asp-route-keyword="@Model.Keyword" asp-route-useAjax="@Model.UseAjax"
+                       data-page-index="@pageNumber" aria-label="Trang @pageNumber" aria-current="@(pageNumber == Model.PageIndex ? "page" : null)">@pageNumber</a>
+                </li>
+            }
+        </ul>
+    </nav>
+}
+</div>
