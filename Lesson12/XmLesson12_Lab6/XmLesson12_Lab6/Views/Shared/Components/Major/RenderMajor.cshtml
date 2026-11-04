@@ -1,0 +1,26 @@
+@model IEnumerable<Major>
+@{
+    int? selectedMajorId = ViewBag.SelectedMajorId;
+    bool useAjax = ViewBag.UseAjax;
+}
+
+<nav aria-label="Lọc theo chuyên ngành">
+    <ul id="major-filter" class="nav nav-pills gap-1 mb-3"
+        data-use-ajax="@useAjax.ToString().ToLowerInvariant()"
+        data-filter-url="@Url.Action("LearnerFilter", "Learner")">
+        <li class="nav-item" id="major-all">
+            <a asp-controller="Learner" asp-action="Index" asp-route-useAjax="@useAjax" asp-route-keyword="@ViewBag.Keyword"
+               class="nav-link @(selectedMajorId == null ? "active" : "")" data-major-id=""
+               aria-current="@(selectedMajorId == null ? "page" : null)">Tất cả</a>
+        </li>
+        @foreach (var major in Model)
+        {
+            <li class="nav-item" id="major-@major.MajorID">
+                <a asp-controller="Learner" asp-action="Index" asp-route-mid="@major.MajorID"
+                   asp-route-useAjax="@useAjax" asp-route-keyword="@ViewBag.Keyword" data-major-id="@major.MajorID"
+                   class="nav-link @(selectedMajorId == major.MajorID ? "active" : "")"
+                   aria-current="@(selectedMajorId == major.MajorID ? "page" : null)">@major.MajorName</a>
+            </li>
+        }
+    </ul>
+</nav>

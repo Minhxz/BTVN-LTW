@@ -1,0 +1,38 @@
+@model IEnumerable<Learner>
+
+<div class="table-responsive">
+    <table class="table table-striped align-middle">
+        <caption>Danh sách có @Model.Count() người học</caption>
+        <thead>
+            <tr>
+                <th scope="col">Mã</th>
+                <th scope="col">Tên</th>
+                <th scope="col">Họ</th>
+                <th scope="col">Ngành</th>
+                <th scope="col">Ngày nhập học</th>
+                <th scope="col">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr><td colspan="6" class="text-center text-muted py-4">Không có người học thuộc chuyên ngành này.</td></tr>
+            }
+            @foreach (var learner in Model)
+            {
+                <tr data-learner-id="@learner.LearnerID" data-major-id="@learner.MajorID">
+                    <td>@learner.LearnerID</td>
+                    <td>@learner.FirstMidName</td>
+                    <td>@learner.LastName</td>
+                    <td>@learner.Major?.MajorName</td>
+                    <td>@learner.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-controller="Learner" asp-action="Edit" asp-route-id="@learner.LearnerID">Sửa</a>
+                        <span aria-hidden="true"> | </span>
+                        <a asp-controller="Learner" asp-action="Delete" asp-route-id="@learner.LearnerID">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
