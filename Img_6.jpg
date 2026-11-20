@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - BookHub</title>
+
+    <link href="~/css/layout.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <partial name="BuiQuangMinh_241230793_Header" />
+
+    <main class="main">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+
+    <partial name="BuiQuangMinh_241230793_Footer" />
+
+    <div class="to-top">&uarr;</div>
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/main.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

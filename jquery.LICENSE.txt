@@ -1,0 +1,5 @@
+@model IEnumerable<BuiQuangMinh_241230793.Models.TheLoai>
+@foreach (var item in Model)
+{
+    <li><a href="#" class="the-loai" data-id="@item.MaTL">@item.TenTL</a></li>
+}

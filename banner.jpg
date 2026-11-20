@@ -1,0 +1,40 @@
+﻿@model BuiQuangMinh_241230793.Models.Sach
+
+@{
+    ViewData["Title"] = "Thêm sách mới";
+}
+
+<div class="section-head">
+    <h3>Bùi Quang Minh_241230793 - Thêm sách mới</h3>
+</div>
+
+<form asp-controller="Sach" asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <p>
+        <label asp-for="MaTL">Thể loại</label><br />
+        <select asp-for="MaTL" asp-items="ViewBag.MaTL"></select>
+        <span asp-validation-for="MaTL"></span>
+    </p>
+
+    <p>
+        <label asp-for="TenSach">Tên sách</label><br />
+        <input asp-for="TenSach" />
+        <span asp-validation-for="TenSach"></span>
+    </p>
+
+    <p>
+        <label asp-for="Gia">Giá</label><br />
+        <input asp-for="Gia" type="text" />
+        <span asp-validation-for="Gia"></span>
+    </p>
+
+    <p>
+        <label asp-for="Anh">Tên file ảnh</label><br />
+        <input asp-for="Anh" />
+        <span asp-validation-for="Anh"></span>
+    </p>
+
+    <button class="btn-buy" type="submit">Create</button>
+    <a asp-controller="Sach" asp-action="Index">Về trang chủ</a>
+</form>
