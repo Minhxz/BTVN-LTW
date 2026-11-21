@@ -1,0 +1,43 @@
+@model BùiQuangMinh_241230793.Models.HangHoa
+@{
+    ViewData["Title"] = "Thêm hàng hóa";
+}
+
+<div class="main">
+    <div class="content">
+        <div class="content_top">
+            <div class="heading">
+                <h3>BùiQuangMinh-241230793 - Thêm hàng hóa mới</h3>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <form asp-controller="HangHoa" asp-action="Create" method="post" class="create-form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <p>
+                <label asp-for="MaLoai">Loại hàng</label>
+                <select asp-for="MaLoai" asp-items="ViewBag.MaLoai"></select>
+                <span asp-validation-for="MaLoai" class="text-danger"></span>
+            </p>
+            <p>
+                <label asp-for="TenHang">Tên hàng</label>
+                <input asp-for="TenHang" maxlength="50" />
+                <span asp-validation-for="TenHang" class="text-danger"></span>
+            </p>
+            <p>
+                <label asp-for="Gia">Giá</label>
+                <input asp-for="Gia" type="text" inputmode="decimal" />
+                <span asp-validation-for="Gia" class="text-danger"></span>
+            </p>
+            <p>
+                <label asp-for="Anh">Tên file ảnh</label>
+                <input asp-for="Anh" maxlength="100" placeholder="Ví dụ: Img_1.jpg" />
+                <span asp-validation-for="Anh" class="text-danger"></span>
+            </p>
+
+            <button type="submit">Create</button>
+            <a asp-controller="HangHoa" asp-action="Index">Về trang chủ</a>
+        </form>
+    </div>
+</div>
