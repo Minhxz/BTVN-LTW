@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BùiQuangMinh_241230793.Models.TaiSan>
+@{
+    ViewData["Title"] = "Trang chủ";
+
+}
+<div class="container">
+  <div class="banner">
+        <img src="~/images/banner.jpg" alt="Banner AssetHub" />
+</div>
+</div>
+<div id="mainContent">
+    <partial name="BùiQuangMinh-241230793_MainContent" model="Model" />
+</div>
+@section Scripts {
+    <script>
+        $(function () {
+            $('.loai-tai-san').click(function (event) {
+                event.preventDefault();
+
+                var lienKet = $(this);
+
+                $.ajax({
+                    url: '@Url.Action("RenderByID", "TaiSan")',
+                    type: 'GET',
+                    data: { id: lienKet.data('id') },
+
+                    success: function (data) {
+                        $('#mainContent').html(data);
+
+                        $('.menu li').removeClass('active');
+                        lienKet.parent().addClass('active');
+                    },
+
+                    error: function () {
+                        alert('Không tải được danh sách tài sản.');
+                    }
+                });
+            });
+        });
+    </script>
+}

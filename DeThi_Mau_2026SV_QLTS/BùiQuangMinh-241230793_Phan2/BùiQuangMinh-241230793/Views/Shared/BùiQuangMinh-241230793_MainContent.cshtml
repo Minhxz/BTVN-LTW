@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BùiQuangMinh_241230793.Models.TaiSan>
+
+<main class="main">
+    <div class="container">
+        <div class="section-head">
+            <h3>@ViewBag.TieuDe</h3>
+        </div>
+
+        <div class="grid">
+            @foreach (var item in Model)
+            {
+                <div class="asset-card">
+                    <a href="#">
+                        <img src="~/images/@item.Anh"
+                             alt="@item.TenTS" />
+                    </a>
+
+                    <h2>@item.TenTS</h2>
+
+                    <div class="asset-foot">
+                        <span class="price">@item.NguyenGia tr</span>
+                        <a class="btn-buy"
+                           asp-controller="TaiSan"
+                           asp-action="Edit"
+                           asp-route-id="@item.MaTS">
+                            Sửa
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+
+        @if (!Model.Any())
+        {
+            <p>Chưa có tài sản phù hợp.</p>
+        }
+    </div>
+</main>
